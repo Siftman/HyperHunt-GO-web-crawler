@@ -78,11 +78,3 @@ PRs are welcome! Just:
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a PR
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## ⚠️ Disclaimer
-
-Make sure to respect websites' robots.txt and crawling policies. This tool is for educational purposes only. Be nice to the servers you crawl! 
